@@ -1,0 +1,77 @@
+C:\Users\voron\source\repos\HomeWork\HomeWork\bin\Debug\HomeWork.exe.config
+C:\Users\voron\source\repos\HomeWork\HomeWork\bin\Debug\HomeWork.exe
+C:\Users\voron\source\repos\HomeWork\HomeWork\bin\Debug\HomeWork.pdb
+C:\Users\voron\source\repos\HomeWork\HomeWork\obj\Debug\HomeWork.csproj.AssemblyReference.cache
+C:\Users\voron\source\repos\HomeWork\HomeWork\obj\Debug\HomeWork.Properties.Resources.resources
+C:\Users\voron\source\repos\HomeWork\HomeWork\obj\Debug\HomeWork.csproj.GenerateResource.cache
+C:\Users\voron\source\repos\HomeWork\HomeWork\obj\Debug\HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\voron\source\repos\HomeWork\HomeWork\obj\Debug\HomeWork.exe
+C:\Users\voron\source\repos\HomeWork\HomeWork\obj\Debug\HomeWork.pdb
+C:\Users\voron\source\repos\HomeWork\HomeWork\bin\Debug\MaterialSkin.dll
+C:\Users\voron\source\repos\HomeWork\HomeWork\obj\Debug\HomeWork.csproj.Up2Date
+C:\Users\voron\source\repos\HomeWork\HomeWork\obj\Debug\HomeWork.Form1.resources
+C:\Users\voron\source\repos\HomeWork\HomeWork\obj\Debug\HomeWork.Form2.resources
+C:\Users\voron\OneDrive\Рабочий стол\HomeWork\HomeWork\bin\Debug\HomeWork.exe.config
+C:\Users\voron\OneDrive\Рабочий стол\HomeWork\HomeWork\bin\Debug\HomeWork.exe
+C:\Users\voron\OneDrive\Рабочий стол\HomeWork\HomeWork\bin\Debug\HomeWork.pdb
+C:\Users\voron\OneDrive\Рабочий стол\HomeWork\HomeWork\bin\Debug\MaterialSkin.dll
+C:\Users\voron\OneDrive\Рабочий стол\HomeWork\HomeWork\obj\Debug\HomeWork.csproj.AssemblyReference.cache
+C:\Users\voron\OneDrive\Рабочий стол\HomeWork\HomeWork\obj\Debug\HomeWork.Form1.resources
+C:\Users\voron\OneDrive\Рабочий стол\HomeWork\HomeWork\obj\Debug\HomeWork.Form2.resources
+C:\Users\voron\OneDrive\Рабочий стол\HomeWork\HomeWork\obj\Debug\HomeWork.Properties.Resources.resources
+C:\Users\voron\OneDrive\Рабочий стол\HomeWork\HomeWork\obj\Debug\HomeWork.csproj.GenerateResource.cache
+C:\Users\voron\OneDrive\Рабочий стол\HomeWork\HomeWork\obj\Debug\HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\voron\OneDrive\Рабочий стол\HomeWork\HomeWork\obj\Debug\HomeWork.csproj.Up2Date
+C:\Users\voron\OneDrive\Рабочий стол\HomeWork\HomeWork\obj\Debug\HomeWork.exe
+C:\Users\voron\OneDrive\Рабочий стол\HomeWork\HomeWork\obj\Debug\HomeWork.pdb
+C:\Users\voron\OneDrive\Рабочий стол\Покупка билетов(Фасад)\HomeWork\bin\Debug\HomeWork.exe.config
+C:\Users\voron\OneDrive\Рабочий стол\Покупка билетов(Фасад)\HomeWork\bin\Debug\HomeWork.exe.manifest
+C:\Users\voron\OneDrive\Рабочий стол\Покупка билетов(Фасад)\HomeWork\bin\Debug\HomeWork.application
+C:\Users\voron\OneDrive\Рабочий стол\Покупка билетов(Фасад)\HomeWork\bin\Debug\HomeWork.exe
+C:\Users\voron\OneDrive\Рабочий стол\Покупка билетов(Фасад)\HomeWork\bin\Debug\HomeWork.pdb
+C:\Users\voron\OneDrive\Рабочий стол\Покупка билетов(Фасад)\HomeWork\bin\Debug\MaterialSkin.dll
+C:\Users\voron\OneDrive\Рабочий стол\Покупка билетов(Фасад)\HomeWork\obj\Debug\HomeWork.csproj.AssemblyReference.cache
+C:\Users\voron\OneDrive\Рабочий стол\Покупка билетов(Фасад)\HomeWork\obj\Debug\HomeWork.Form1.resources
+C:\Users\voron\OneDrive\Рабочий стол\Покупка билетов(Фасад)\HomeWork\obj\Debug\HomeWork.Form2.resources
+C:\Users\voron\OneDrive\Рабочий стол\Покупка билетов(Фасад)\HomeWork\obj\Debug\HomeWork.Properties.Resources.resources
+C:\Users\voron\OneDrive\Рабочий стол\Покупка билетов(Фасад)\HomeWork\obj\Debug\HomeWork.csproj.GenerateResource.cache
+C:\Users\voron\OneDrive\Рабочий стол\Покупка билетов(Фасад)\HomeWork\obj\Debug\HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\voron\OneDrive\Рабочий стол\Покупка билетов(Фасад)\HomeWork\obj\Debug\HomeWork.exe.manifest
+C:\Users\voron\OneDrive\Рабочий стол\Покупка билетов(Фасад)\HomeWork\obj\Debug\HomeWork.application
+C:\Users\voron\OneDrive\Рабочий стол\Покупка билетов(Фасад)\HomeWork\obj\Debug\HomeWork.csproj.Up2Date
+C:\Users\voron\OneDrive\Рабочий стол\Покупка билетов(Фасад)\HomeWork\obj\Debug\HomeWork.exe
+C:\Users\voron\OneDrive\Рабочий стол\Покупка билетов(Фасад)\HomeWork\obj\Debug\HomeWork.pdb
+C:\Users\voron\OneDrive\Рабочий стол\C#\Покупка билетов(Фасад)\HomeWork\bin\Debug\HomeWork.exe.config
+C:\Users\voron\OneDrive\Рабочий стол\C#\Покупка билетов(Фасад)\HomeWork\bin\Debug\HomeWork.exe.manifest
+C:\Users\voron\OneDrive\Рабочий стол\C#\Покупка билетов(Фасад)\HomeWork\bin\Debug\HomeWork.application
+C:\Users\voron\OneDrive\Рабочий стол\C#\Покупка билетов(Фасад)\HomeWork\bin\Debug\HomeWork.exe
+C:\Users\voron\OneDrive\Рабочий стол\C#\Покупка билетов(Фасад)\HomeWork\bin\Debug\HomeWork.pdb
+C:\Users\voron\OneDrive\Рабочий стол\C#\Покупка билетов(Фасад)\HomeWork\bin\Debug\MaterialSkin.dll
+C:\Users\voron\OneDrive\Рабочий стол\C#\Покупка билетов(Фасад)\HomeWork\obj\Debug\HomeWork.csproj.AssemblyReference.cache
+C:\Users\voron\OneDrive\Рабочий стол\C#\Покупка билетов(Фасад)\HomeWork\obj\Debug\HomeWork.Form1.resources
+C:\Users\voron\OneDrive\Рабочий стол\C#\Покупка билетов(Фасад)\HomeWork\obj\Debug\HomeWork.Form2.resources
+C:\Users\voron\OneDrive\Рабочий стол\C#\Покупка билетов(Фасад)\HomeWork\obj\Debug\HomeWork.Properties.Resources.resources
+C:\Users\voron\OneDrive\Рабочий стол\C#\Покупка билетов(Фасад)\HomeWork\obj\Debug\HomeWork.csproj.GenerateResource.cache
+C:\Users\voron\OneDrive\Рабочий стол\C#\Покупка билетов(Фасад)\HomeWork\obj\Debug\HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\voron\OneDrive\Рабочий стол\C#\Покупка билетов(Фасад)\HomeWork\obj\Debug\HomeWork.exe.manifest
+C:\Users\voron\OneDrive\Рабочий стол\C#\Покупка билетов(Фасад)\HomeWork\obj\Debug\HomeWork.application
+C:\Users\voron\OneDrive\Рабочий стол\C#\Покупка билетов(Фасад)\HomeWork\obj\Debug\HomeWork.csproj.Up2Date
+C:\Users\voron\OneDrive\Рабочий стол\C#\Покупка билетов(Фасад)\HomeWork\obj\Debug\HomeWork.exe
+C:\Users\voron\OneDrive\Рабочий стол\C#\Покупка билетов(Фасад)\HomeWork\obj\Debug\HomeWork.pdb
+C:\C#\TicketFacade\HomeWork\bin\Debug\HomeWork.exe.config
+C:\C#\TicketFacade\HomeWork\bin\Debug\HomeWork.exe.manifest
+C:\C#\TicketFacade\HomeWork\bin\Debug\HomeWork.application
+C:\C#\TicketFacade\HomeWork\bin\Debug\HomeWork.exe
+C:\C#\TicketFacade\HomeWork\bin\Debug\HomeWork.pdb
+C:\C#\TicketFacade\HomeWork\bin\Debug\MaterialSkin.dll
+C:\C#\TicketFacade\HomeWork\obj\Debug\HomeWork.csproj.AssemblyReference.cache
+C:\C#\TicketFacade\HomeWork\obj\Debug\HomeWork.Form1.resources
+C:\C#\TicketFacade\HomeWork\obj\Debug\HomeWork.Form2.resources
+C:\C#\TicketFacade\HomeWork\obj\Debug\HomeWork.Properties.Resources.resources
+C:\C#\TicketFacade\HomeWork\obj\Debug\HomeWork.csproj.GenerateResource.cache
+C:\C#\TicketFacade\HomeWork\obj\Debug\HomeWork.csproj.CoreCompileInputs.cache
+C:\C#\TicketFacade\HomeWork\obj\Debug\HomeWork.exe.manifest
+C:\C#\TicketFacade\HomeWork\obj\Debug\HomeWork.application
+C:\C#\TicketFacade\HomeWork\obj\Debug\HomeWork.csproj.Up2Date
+C:\C#\TicketFacade\HomeWork\obj\Debug\HomeWork.exe
+C:\C#\TicketFacade\HomeWork\obj\Debug\HomeWork.pdb
